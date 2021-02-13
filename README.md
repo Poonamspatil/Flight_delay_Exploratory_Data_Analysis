@@ -1,4 +1,4 @@
-# Data analysis of flight data
+# Exploratory Data analysis (EDA) for flight delay data
 ### Exploratory analysis and linear regression modeling
 
 ## Table of contents
